@@ -1,0 +1,10 @@
+{
+  "name": "JARVIS Stream Terminal",
+  "description": "A J.A.R.V.I.S-styled dark mode streaming interface with voice-activated search, interactive player HUD, and Stark telemetry.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
